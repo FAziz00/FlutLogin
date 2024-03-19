@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "312149557905",
+    "project_id": "flutterauth-fe0ce",
+    "storage_bucket": "flutterauth-fe0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312149557905:android:8764a0cc4258fd99e2f530",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312149557905-p62vlg2v6q9rgemo9m1vfr6913o0h6je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAT1uq3VM-ZwMT5EhYMkQot9YnSy0LCco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312149557905-p62vlg2v6q9rgemo9m1vfr6913o0h6je.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312149557905-f9nkbqo19tad7355a3ohuhjno7p5b8rl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginPage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
